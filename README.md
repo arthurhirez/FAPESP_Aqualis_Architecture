@@ -1,4 +1,4 @@
-# FAPESP_Aqualis_Architecture
+# Aqualis Architecture
 Word play with "aqua" and "polis" (city), emphasizing smart water-focused urban design
 
-## Projeto de Iniciação Científica fianciado pela FAPESP
+## Projeto de Iniciação Científica financiado pela FAPESP
