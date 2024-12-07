@@ -1,0 +1,1 @@
+# Bibliotecas de funções autorais
